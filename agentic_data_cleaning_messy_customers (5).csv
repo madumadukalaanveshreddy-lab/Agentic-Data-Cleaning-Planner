@@ -1,0 +1,16 @@
+Customer_ID,Name,Email,Phone,City,Age,Monthly_Income
+1001,Rahul Kumar,rahul@gmail.com,9876543210,Hyderabad,22,45000
+1002,RAHUL KUMAR,rahul@gmail,98765,HYDERABAD,,45000
+1003,Priya Sharma,priya.sharma@gmail.com,9123456789,Hyderabad,21,38000
+1004,priya sharma,priya.sharma@gmail.com,9123456789,HYD,21,38000
+1005,Arun Reddy,,9988776655,Warangal,25,52000
+1006,Arun Reddy,,9988776655,Warangal,25,52000
+1007,Sneha Rao,sneha.rao@gmail.com,,Vijayawada,,41000
+1008,SNEHA RAO,sneha.rao@gmail.com,9000012345,VIJAYAWADA,24,41000
+1009,Kiran,kiran@gmail.com,8888888888,Hyderabad,130,-5000
+1010,Mahesh Patel,mahesh.patel@gmail.com,7777777777,Warangal,29,47000
+1011,Mahesh Patel,mahesh.patel@gmail.com,7777777777,WARANGAL,29,47000
+1012,Anita Devi,anita.devi@gmail.com,6666666666,Vijayawada,27,
+1013,anita devi,anita.devi@gmail.com,666666,Vijayawada,27,
+1014,Ravi Teja,ravi.teja@gmail.com,5555555555,Hyd,23,36000
+1015,Ravi Teja,ravi.teja@gmail.com,5555555555,HYDERABAD,23,36000
